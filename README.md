@@ -1,5 +1,10 @@
 == README
 
+# Ruby on Railsチュートリアル：サンプルアプリケーション
+
+これは以下に基づいたサンプル・アプリケーションです
+[*Ruby on Railsを学ぼう*]
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
